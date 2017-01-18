@@ -39,3 +39,34 @@ my learning resources
 
 > Pyramid web framework [https://trypyramid.com/](https://trypyramid.com/)
 
+
+### Python DateTime
+- [Arrow](https://github.com/crsmithdev/arrow)
+> Better dates & times for Python [https://arrow.readthedocs.org](https://arrow.readthedocs.org)
+
+- [pendulum](https://github.com/sdispater/pendulum)
+> Python datetimes made easy [https://pendulum.eustace.io](https://pendulum.eustace.io)
+
+
+### Python Network
+
+- [requests](https://github.com/kennethreitz/requests)
+> Python HTTP Requests for Humans™ [http://python-requests.org](http://python-requests.org)
+
+- [aiohttp](https://github.com/KeepSafe/aiohttp)
+> http client/server for asyncio (PEP-3156) [http://aiohttp.readthedocs.io](http://aiohttp.readthedocs.io)
+
+- [httpie](https://github.com/jkbrzt/httpie)
+> Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. 
+> Follow [https://twitter.com/clihttp]( https://twitter.com/clihttp)  for tips and updates. 
+> [https://httpie.org](https://httpie.org)
+
+### Python Learning
+- [python-guide](https://github.com/kennethreitz/python-guide)
+- [intermediatePython](https://github.com/yasoob/intermediatePython)
+- [interpy-zh](https://github.com/eastlakeside/interpy-zh)
+- [Algorithms](https://github.com/prakhar1989/Algorithms)
+- [python-patterns](https://github.com/faif/python-patterns)
+
+### Others
+- [awesome-python](https://github.com/vinta/awesome-python)
