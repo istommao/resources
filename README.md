@@ -42,44 +42,56 @@ my learning resources
 
 ### Python DateTime
 - [Arrow](https://github.com/crsmithdev/arrow)
+
 > Better dates & times for Python [https://arrow.readthedocs.org](https://arrow.readthedocs.org)
 
 - [pendulum](https://github.com/sdispater/pendulum)
+
 > Python datetimes made easy [https://pendulum.eustace.io](https://pendulum.eustace.io)
 
 
 ### Python Network
 
 - [requests](https://github.com/kennethreitz/requests)
+
 > Python HTTP Requests for Humans™ [http://python-requests.org](http://python-requests.org)
 
 - [aiohttp](https://github.com/KeepSafe/aiohttp)
+
 > http client/server for asyncio (PEP-3156) [http://aiohttp.readthedocs.io](http://aiohttp.readthedocs.io)
 
 - [httpie](https://github.com/jkbrzt/httpie)
+
 > Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. 
 > Follow [https://twitter.com/clihttp]( https://twitter.com/clihttp)  for tips and updates. 
 > [https://httpie.org](https://httpie.org)
 
 ### Python Learning
 - [python-guide](https://github.com/kennethreitz/python-guide)
+
 > Python best practices guidebook, written for Humans. [http://docs.python-guide.org](http://docs.python-guide.org)
 
 - [intermediatePython](https://github.com/yasoob/intermediatePython)
+
 > [http://book.pythontips.com](http://book.pythontips.com)
 
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh)
+
 > 《Python进阶》（Intermediate Python 中文版） [https://eastlakeside.gitbooks.io/interpy-zh/content/](https://eastlakeside.gitbooks.io/interpy-zh/content/)
 
 - [Algorithms](https://github.com/prakhar1989/Algorithms)
+
 > Data Structures and Algorithms in Python
 
 - [algorithms](https://github.com/nryoung/algorithms)
+
 > An educational library of algorithms in Python
 
 - [python-patterns](https://github.com/faif/python-patterns)
+
 > https://github.com/faif/python-patterns
 
 ### Others
 - [awesome-python](https://github.com/vinta/awesome-python)
+
 > A curated list of awesome Python frameworks, libraries, software and resources [http://awesome-python.com/](http://awesome-python.com/)
