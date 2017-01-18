@@ -63,10 +63,23 @@ my learning resources
 
 ### Python Learning
 - [python-guide](https://github.com/kennethreitz/python-guide)
+> Python best practices guidebook, written for Humans. [http://docs.python-guide.org](http://docs.python-guide.org)
+
 - [intermediatePython](https://github.com/yasoob/intermediatePython)
+> [http://book.pythontips.com](http://book.pythontips.com)
+
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh)
+> 《Python进阶》（Intermediate Python 中文版） [https://eastlakeside.gitbooks.io/interpy-zh/content/](https://eastlakeside.gitbooks.io/interpy-zh/content/)
+
 - [Algorithms](https://github.com/prakhar1989/Algorithms)
+> Data Structures and Algorithms in Python
+
+- [algorithms](https://github.com/nryoung/algorithms)
+> An educational library of algorithms in Python
+
 - [python-patterns](https://github.com/faif/python-patterns)
+> https://github.com/faif/python-patterns
 
 ### Others
 - [awesome-python](https://github.com/vinta/awesome-python)
+> A curated list of awesome Python frameworks, libraries, software and resources [http://awesome-python.com/](http://awesome-python.com/)
