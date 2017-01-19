@@ -79,6 +79,12 @@ my learning resources
 
 > 《Python进阶》（Intermediate Python 中文版） [https://eastlakeside.gitbooks.io/interpy-zh/content/](https://eastlakeside.gitbooks.io/interpy-zh/content/)
 
+- [StarterLearningPython](https://github.com/qiwsir/StarterLearningPython)
+
+> Learning Python: from Beginner to Master. [http://www.itdiffer.com](http://www.itdiffer.com)
+
+- [python3-cookbook](http://python3-cookbook.readthedocs.io/zh_CN/latest/)
+
 - [Algorithms](https://github.com/prakhar1989/Algorithms)
 
 > Data Structures and Algorithms in Python
@@ -95,3 +101,10 @@ my learning resources
 - [awesome-python](https://github.com/vinta/awesome-python)
 
 > A curated list of awesome Python frameworks, libraries, software and resources [http://awesome-python.com/](http://awesome-python.com/)
+
+
+- [ITArticles](https://github.com/qiwsir/ITArticles)
+
+
+- [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
+> 《计算机程序的构造和解释》公开课中文化项目。[http://www.youku.com/playlist_show/id_18958522.html](http://www.youku.com/playlist_show/id_18958522.html)
