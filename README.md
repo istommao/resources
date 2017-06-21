@@ -39,5 +39,9 @@ WooYun： http://drops.wooyun.org/
 
 http://blog.knownsec.com/Knownsec_RD_Checklist/
 
-
 https://zhuanlan.zhihu.com/p/25603321
+
+机器之心 http://www.jiqizhixin.com/
+
+【码农必收】史上最全学习资料和免费网站汇总 http://www.imooc.com/article/2880
+
