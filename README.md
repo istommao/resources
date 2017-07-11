@@ -34,3 +34,6 @@ my learning resources
 - https://zhuanlan.zhihu.com/p/25603321
 - 机器之心 http://www.jiqizhixin.com/
 -【码农必收】史上最全学习资料和免费网站汇总 http://www.imooc.com/article/2880
+
+
+- [移动App的REST API设计实践](http://www.jianshu.com/p/23cccb3a90b1)
