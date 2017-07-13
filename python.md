@@ -16,20 +16,20 @@
 
 - [tornado](https://github.com/tornadoweb/tornado)
 
-> Tornado is a Python web framework and asynchronous 
-> networking library, originally developed at FriendFeed. 
+> Tornado is a Python web framework and asynchronous
+> networking library, originally developed at FriendFeed.
 > [http://www.tornadoweb.org/](http://www.tornadoweb.org/)
 
 - [bottle](https://github.com/bottlepy/bottle)
 
-> bottle.py is a fast and simple micro-framework for python 
+> bottle.py is a fast and simple micro-framework for python
 > web-applications. [http://bottlepy.org/](http://bottlepy.org/)
 
 
 - [falcon](https://github.com/falconry/falcon)
 
-> Falcon is a bare metal Python framework for building 
-> high-performance HTTP APIs, app backends, and higher-level frameworks. 
+> Falcon is a bare metal Python framework for building
+> high-performance HTTP APIs, app backends, and higher-level frameworks.
 > [https://falcon.readthedocs.io/en/stable/](https://falcon.readthedocs.io/en/stable/)
 
 - [sanic](https://github.com/channelcat/sanic)
@@ -63,8 +63,8 @@
 
 - [httpie](https://github.com/jkbrzt/httpie)
 
-> Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. 
-> Follow [https://twitter.com/clihttp]( https://twitter.com/clihttp)  for tips and updates. 
+> Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+> Follow [https://twitter.com/clihttp]( https://twitter.com/clihttp)  for tips and updates.
 > [https://httpie.org](https://httpie.org)
 
 ### Python Learning
