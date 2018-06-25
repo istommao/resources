@@ -99,3 +99,6 @@ sync_changes.log
 sync_hook.script
 
 **/.Archive
+
+.markeditor/
+configs/
