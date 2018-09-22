@@ -1,4 +1,4 @@
-# Python 
+# Python
 
 [Python 中文学习大本营](http://www.pythondoc.com/)
 
@@ -116,23 +116,42 @@ https://facert.gitbooks.io/python-data-structure-cn/
 http://interactivepython.org/runestone/static/pythonds/index.html
 
 
-
 １．首先第一个肯定是毋庸置疑的Planet Python这是最出名的python博客其中之一，快去看看，我希望你能找到对你有用的东西，昨天它还更新了呢！
+http://planetpython.org/
+
 
 ２．第二个博客是lucumr，博主是flask的创始人（一个python micro web framework)
+http://lucumr.pocoo.org/
+
 
 ３．第三个博客是love-python,我不知道我是怎么被它吸引的，但是我真得很喜欢这个博客，它有很多有用的知识和代码
+http://love-python.blogspot.com/
+
 
 ４．第四个博客是Doug Hellmann，博主是PYMOTW(Python Module Of the Week)成员之一，博客里面包含了很多python library的知识。如果你是在寻找一些实用的python库的话，你可以在这里找找。
+http://doughellmann.com/
+
 
 ５．下一个博客是Code Who Says Py，这个博客很不错。虽然它更新的不是很及时，但你仍然可以在里面找到一些非常有用的东西。
+http://sayspy.blogspot.com/
+
+
 
 ６．第六个博客是effbot，满满的都是非常有用的信息，代码和任何你能想得到的东西都在里面。机不可失哦
+http://effbot.org/
+
 
 ７．第七个博客的作者叫做"Two Scoops Of Django"，博客叫做pydanny。这是一个主要关于Django的博客，但是它里面仍然有很多有用的东西。
+http://pydanny.com/
+
 
 ８．第八个博客的作者叫Al Sweigat，他写了很多本关于python的书，他最新的一本书叫做"Hacking Secret Cipher With Python"
+http://inventwithpython.com/blog/
 
-９．第九个博客就是我自己拉，这里什么都有！
+
+９．第九个博客就是我自己拉，freepythontips.wordpress.com 这里什么都有！
+http://freepythontips.wordpress.com
+
 
 １０．最后一个博客也是我觉得最有用的博客，他让我的python技术迅猛提升，这个博客叫做Mouse Vs Python.
+http://www.blog.pythonlibrary.org/
