@@ -37,3 +37,8 @@ my learning resources
 
 
 - [移动App的REST API设计实践](http://www.jianshu.com/p/23cccb3a90b1)
+
+
+## Vim
+
+- https://www.jianshu.com/p/6aa2e0e39f99

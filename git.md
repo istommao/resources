@@ -7,3 +7,9 @@
 - [Git简明教程](http://rogerdudler.github.io/git-guide/index.zh.html)
 - [Git教程 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [Git Pro](http://rogerdudler.github.io/git-guide/index.zh.html)
+
+
+- http://blog.jobbole.com/114297/
+
+
+ 
