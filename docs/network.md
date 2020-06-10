@@ -61,6 +61,10 @@
 - http://www.cnblogs.com/ttltry-air/archive/2012/08/20/2647898.html
 - https://klionsec.github.io/2017/07/31/https-learn/#menu
 
+## DNS
+
+- DNS 原理入门 http://www.ruanyifeng.com/blog/2016/06/dns.html
+
 ## 网络工具
 
 - https://mp.weixin.qq.com/s/GakaPR5a8c0eqxROcSwHVQ

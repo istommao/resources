@@ -16,3 +16,11 @@ https://zhihu.com/question/33398583/answer/59017861
 - git 操作
 - redis 相关
 - web 安全
+
+## Python 面试题
+
+http://www.itwendao.com/interview/python/
+
+http://python.jobbole.com/85231/
+http://blog.csdn.net/alvine008/article/details/39229057
+https://zhuanlan.zhihu.com/p/23526961
