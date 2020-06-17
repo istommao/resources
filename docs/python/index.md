@@ -4,6 +4,12 @@
 
 [笨办法学 python](https://wizardforcel.gitbooks.io/lpthw/content/)
 
+## 文章
+
+> 5 年 Python 功力，总结了 10 个开发技巧
+
+- https://mp.weixin.qq.com/s/Yaj8mU-rg928osVtJ37prg
+
 ### Python Web framework
 
 - [Django](https://github.com/django/django)
